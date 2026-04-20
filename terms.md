@@ -209,7 +209,7 @@ You agree to indemnify, defend, and hold Creator OS and its founders, employees,
 
 - These Terms are governed by and construed in accordance with the **laws of India**
 - Any disputes arising from or related to these Terms shall first be attempted to be resolved through **amicable negotiation** for a period of 30 days
-- If negotiation fails, disputes shall be subject to **arbitration** under the Arbitration and Conciliation Act, 1996, conducted in [Your City], India, in English
+- If negotiation fails, disputes shall be subject to **arbitration** under the Arbitration and Conciliation Act, 1996, conducted in Bengaluru, India, in English
 - The arbitration decision shall be final and binding on both parties
 - Nothing in this section prevents either party from seeking injunctive relief from a court of competent jurisdiction
 - This clause does not affect your statutory rights under the Consumer Protection Act, 2019
