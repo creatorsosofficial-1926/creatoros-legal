@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service - Creator OS
+---
+
 # Terms of Service
 
 **Creator OS**
