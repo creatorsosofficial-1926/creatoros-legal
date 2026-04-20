@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy - Creator OS
+---
+
 # Privacy Policy
 
 **Creator OS**
